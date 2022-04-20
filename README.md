@@ -2,8 +2,8 @@
 
 ```xml
 <repository>
-    <id>iridiumdevelopment</id>
-    <url>https://nexus.iridiumdevelopment.net/repository/maven-releases/</url>
+    <id>2lstudios-repo</id>
+    <url>https://ci.2lstudios.dev/plugin/repository/everything</url>
 </repository>
 ```
 ```xml
