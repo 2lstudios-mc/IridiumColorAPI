@@ -1,4 +1,4 @@
-# IridiumColorAPI
+# IridiumColorAPI (Maven Fork)
 
 ```xml
 <repository>
